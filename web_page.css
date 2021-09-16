@@ -1,0 +1,181 @@
+.Image{
+    /* height: 00px; */
+    width: 100%;
+    background-color: #2cc0af ;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+.mobile_image{
+    height: 1100px;
+    width: 100%;
+    background-color: transparent;
+   
+}
+.image_mobile{
+    height: 650px;
+    width: 20%;
+    margin: 4%;
+    margin-left: 55%;
+    padding: 1%;
+   
+}
+.paragraph{
+    margin-left: 30%;
+}
+h1{
+    margin-left: 30%;
+}
+.TEXT{
+    /* margin: 10%; */
+    margin-top: -33%;
+}
+.img_logo{
+    display: flex;
+    margin-left: 30%;
+    padding: 8px;
+}
+/* p{ */
+    /* margin-left: 30%; */
+/* } */
+.android_logo{
+    height: 10px;
+    width: 20px;
+    padding: 1%;
+}
+.counter{
+    height: 900px;
+    background-color:transparent;
+    display: flex;
+    background-color:transparent;
+    justify-content: space-evenly;
+    background-color: transparent;
+}
+.div_1{
+    height: 700px;
+    width: 100%;
+    background-color: #d0e9ea;
+    /* padding-left: 4px; */
+    margin: 10%;
+    text-align: center;
+    position:relative;
+    left: 9%;
+   
+}
+.div_2{
+    height: 700px;
+    width: 100%;
+    background-color:#edf8f5;
+    margin: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+    position: relative;
+    right: 10%;
+}
+.div_2 p{
+    font-size: 13px;
+    padding: 2px;
+    margin-bottom: 10%;
+}
+ img{
+    padding: 8px;
+}
+.icon_name{
+    position: relative;
+    bottom: 2%;
+    left: 1%;
+}
+h5{
+    font-size: 20px;
+}
+.mobile{
+    height: 340px;
+    width: 50%;
+}
+.circle{
+    border-radius: 50%;
+    background-color: #77d7c8;
+    height: 220px;
+    width: 50%;
+    margin-left: 23%;
+    margin-top: 10%;
+    position: relative;
+    left: 20px;
+}
+.under_circle{
+    height: 30px;
+   
+    width: 40%;
+    background-color: white;
+    position: relative;
+
+    left: 35%;
+    top: 45%;
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+.logo{
+    height: 100px;
+    background-color: blue;
+}
+.redius{
+    height: 200px;
+    background-color: transparent;
+}
+.Text-1{
+    background-color: transparent; 
+    height: 60px;
+    width: 13%;
+    border: solid #1cb39b;
+    border-radius: 50px;
+    margin: 3%;
+
+}
+.Text-1 p{
+    text-align: center;
+    color: #1cb39b;
+    margin: 18px;
+}
+.containt{
+    height: 400px;
+    background-color: #273443;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+}
+.ITEM{
+    color: white;
+    margin-top: 4%;
+}
+.company-name{
+    color: white;
+    margin-top: 4%;
+}
+.download-item{
+    color: white;
+    margin-top: 4%;
+}
+.help{
+    color:white;
+    margin-top: 4%;
+}
+.footer{
+    height: 60px;
+    background-color:black;
+    color:white;
+    /* padding: 2%; */
+    display: flex;
+    
+}
+p.footer-1{
+    margin-left: 15%;
+  
+}
+p.footer-2{
+    margin-left: 50%;
+    
+}
+
+    
